@@ -1,6 +1,6 @@
 {
     "vmanage_host": "your-vmanage-ip",
     "vmanage_port": "your-vmanage-port",
-    "optional-username": "optional",
-    "optional-password": "optional-not-recommended-in-production"
+    "username": "optional-user",
+    "password": "optional-password-not-recommended-in-production"
 }
